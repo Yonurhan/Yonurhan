@@ -55,7 +55,6 @@ Data components include:
 - Created **TF-IDF** and **CountVectorizer** representations  
 - Built classifiers such as **SVM** and **Random Forest**  
 - Generated insights with **word clouds** and frequency analysis  
-🔗 _Repository link coming soon_
 
 ---
 
