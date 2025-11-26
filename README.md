@@ -23,7 +23,20 @@ Data Cleaning • Exploratory Data Analysis (EDA) • Feature Engineering •
 Machine Learning Modeling • Evaluation Metrics • Data Visualization •  
 Time-Series Analysis • Statistical Testing
 
-## 🚀 Featured Data Science Projects
+## 🚀 Featured Projects
+
+### 📱 MomCare (Data-Driven Health App)  
+**Flutter • Flask • MySQL • Python**  
+A mobile health platform with nutrition logging, symptom tracking, and automated analysis.  
+Data components include:  
+- Daily food intake data collection  
+- Nutrient analysis using external APIs  
+- Weekly health assessments  
+- Risk-scoring logic (rule-based + statistical thresholds)  
+🏆 **HOLOGY 2025 – Second Runner-Up (Certificate)**  
+🔗 [Open Source Repo](https://github.com/Yonurhan/MomCare)
+
+---
 
 ### 🧠 Machine Learning & Deep Learning Projects  
 **Python • TensorFlow • Scikit-learn**  
@@ -46,25 +59,13 @@ Time-Series Analysis • Statistical Testing
 
 ---
 
-### 📱 MomCare (Data-Driven Health App)  
-**Flutter • Flask • MySQL • Python**  
-A mobile health platform with nutrition logging, symptom tracking, and automated analysis.  
-Data components include:  
-- Daily food intake data collection  
-- Nutrient analysis using external APIs  
-- Weekly health assessments  
-- Risk-scoring logic (rule-based + statistical thresholds)  
-🏆 **HOLOGY 2025 – Second Runner-Up (Certificate)**  
-🔗 _Repository link coming soon_
-
----
-
-## 📈 What I’m Currently Learning
-
-- Data visualization with **Power BI / Tableau**  
-- More advanced **time-series modeling**  
-- Deployment of ML models (Flask, Docker)  
-- Practical SQL for analytics  
+#### 🍽️ Cuantin — Web-Based Restaurant Management System
+*Laravel • PHP • MySQL • MVC*
+- Designed a relational database for reservations, menu, outlet management  
+- Built multi-role features: Guest (view), Member (reserve), Admin (CRUD)
+- Implemented **data storage & retrieval pipelines** supporting business analytics
+- Strengthened backend/API skills: **SQL queries, authentication, and MVC design**
+🔗 [Open Source Repo](https://github.com/Yonurhan/Cuantin)
 
 ---
 
