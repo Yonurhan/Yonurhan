@@ -44,7 +44,6 @@ Data components include:
 - Built regression, classification, and image-based deep learning models  
 - Experimented with **CNN, LSTM, SVM, Random Forest, Logistic Regression**, and more  
 - Evaluated performance using **accuracy, RMSE, MAE, confusion matrices**, etc.  
-🔗 _Repository links coming soon_
 
 ---
 
@@ -64,6 +63,7 @@ Data components include:
 - Built multi-role features: Guest (view), Member (reserve), Admin (CRUD)
 - Implemented **data storage & retrieval pipelines** supporting business analytics
 - Strengthened backend/API skills: **SQL queries, authentication, and MVC design**
+  
 🔗 [Open Source Repo](https://github.com/Yonurhan/Cuantin)
 
 ---
