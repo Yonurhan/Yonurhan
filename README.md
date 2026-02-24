@@ -6,7 +6,7 @@
 
 I love transforming raw data into meaningful insights using a combination of  
 **mathematics, statistics, domain understanding, and machine learning models**.  
-I enjoy working with real datasets — especially in **health, behavior, and image data** — and turning them into actionable results.
+I enjoy working with real datasets  especially in **health, behavior, and image data**  and turning them into actionable results.
 
 ---
 
@@ -21,11 +21,11 @@ Pandas • NumPy • Matplotlib • Seaborn • Scikit-learn • TensorFlow • 
 **Data Workflow Skills:**  
 Data Cleaning • Exploratory Data Analysis (EDA) • Feature Engineering •  
 Machine Learning Modeling • Evaluation Metrics • Data Visualization •  
-Time-Series Analysis • Statistical Testing
+Time Series Analysis • Statistical Testing
 
 ## 🚀 Featured Projects
 
-### 📱 MomCare (Data-Driven Health App)  
+### 📱 MomCare (Data Driven Health App)  
 **Flutter • Flask • MySQL • Python**  
 A mobile health platform with nutrition logging, symptom tracking, and automated analysis.  
 Data components include:  
@@ -39,9 +39,9 @@ Data components include:
 ---
 
 ### 🧠 Machine Learning & Deep Learning Projects  
-**Python • TensorFlow • Scikit-learn**  
+**Python • TensorFlow • Scikit learn**  
 - Performed data preprocessing, feature engineering, EDA, and visualization  
-- Built regression, classification, and image-based deep learning models  
+- Built regression, classification, and image based deep learning models  
 - Experimented with **CNN, LSTM, SVM, Random Forest, Logistic Regression**, and more  
 - Evaluated performance using **accuracy, RMSE, MAE, confusion matrices**, etc.  
 
@@ -60,7 +60,7 @@ Data components include:
 #### 🍽️ Cuantin — Web-Based Restaurant Management System
 *Laravel • PHP • MySQL • MVC*
 - Designed a relational database for reservations, menu, outlet management  
-- Built multi-role features: Guest (view), Member (reserve), Admin (CRUD)
+- Built multi role features: Guest (view), Member (reserve), Admin (CRUD)
 - Implemented **data storage & retrieval pipelines** supporting business analytics
 - Strengthened backend/API skills: **SQL queries, authentication, and MVC design**
   
